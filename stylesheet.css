@@ -1,0 +1,76 @@
+.logo {
+	float: center;
+	margin: auto;
+	height: 8em;
+	width: 25em;
+}
+.empty {
+	
+	height : 6em;
+	
+}
+.search{
+	margin-top: 10px;
+	margin-left: 35px;
+	height: 1.5em;
+	width :45em;
+	
+}
+.empty{
+	height: 8em;
+	
+}
+.user{
+	height: 3em;
+	float: right;
+	margin: 7px;
+}
+.notif{
+	height: 2em;
+	float: right;
+	margin : 13px 7px 7px 7px;
+}
+.grid{
+	height: 2em;
+	float: right;
+	margin : 13px 7px 7px 7px;
+	
+}
+.top{
+	float: left;
+	margin-left: 1300px;
+	font-size: 20px;
+	font-family: sans-serif;
+	
+}
+ul {
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+	list-style-type: none;
+	text-decoration: none;
+
+}
+
+li {
+    color: #666;
+    margin: 4px 6px 4px 4px;
+	float:left;
+	font-size: 20px;
+}
+.right {
+	margin-right:8px;
+	float: right;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
